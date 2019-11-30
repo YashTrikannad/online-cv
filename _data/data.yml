@@ -30,14 +30,11 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Professional Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have a good background in Motion Planning and Controls with experience in developing software for real time systems. 
+      I am interested in the development of Autonomous Robot Systems which are safe and can be feasible to be deployed at 
+      large scale.                       
 education:
     - degree: MSc in Robotics
       university: University of Pennsylvania
@@ -53,60 +50,48 @@ education:
       time: 2014 - 2018
       
 experiences:
-    - role: Software Engineering Intern
+    - role: Software Engineering Intern, Vehicle Command Team
       time: May 2019 - August 2019
       company: Uber ATG, Pittsburgh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        The Vehicle Command Team is responsible for providing production-reliable tools and systems 
+        which provide Routing and Navigation capabilities to tell vehicles where to go and how to get 
+        there. (C++)
+          - Autonomous Vehicle Motion Planning
+          - Graph Theory
+          - Graph Optimization 
           
-    - role: Software Engineering Intern
+    - role: Research Assistant, Planning 
       time: May 2019 - August 2019
-      company: Uber ATG, Pittsburgh
+      company: DARPA SubTerranean Challenge, University of Pennsylvania
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        This challenge focussed on developing reliable Robot Systems for exploration and navigation 
+        inside urban and mountain cave systems. I contibuted to the planning and exploration software 
+        which was responsible for safely exploring the unknown environment and building a higher level
+        graph from the inputs of multiple quadruped robots. (C++)
+          - Frontier Detection from Lidar Scans 
+          - Graph Construction 
+          - Exploration Strategy Development
+          - Skeletonization
           
     - role: Robotics Software Intern
       time: January 2018 - May 2018
       company: Addverb Technologies, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The responsibility of our team was to develop a Mobile Warehouse Autonomus system 
+        which can perform localization and mapping and planning based on inputs from the 
+        user. First Part involved deploying the software on a differential wheel drive and 
+        the next task was to deploy the system on an ackermann drive forklift.
+          - Robot Operating System navigation stack (C++ and Python)
+          - Embedded System Programming (Embedded C)
+          - Programmable Logic Controller Programming (Ladder Logic)
+          
     - role: Automation Intern
       time: June 2017 - July 2017
       company: PARI, India
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Programmable Logic Controllers
+          - Catia CAD modelling
+    
 projects:
     title: Projects
     intro: >
@@ -134,34 +119,34 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: C++
-        level: 90%
+        level: 95%
         
       - name: ROS
         level: 88% 
@@ -174,6 +159,12 @@ skills:
         
       - name: Pytorch
         level: 65%    
+      
+      - name: Solidworks
+        level: 50%
+        
+      - name: CATIA
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
