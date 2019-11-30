@@ -93,11 +93,11 @@ experiences:
           - Catia CAD modelling
     
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Real Time Planning FrameWork for Autonomous Vehicels
         link: "https://github.com/YashTrikannad/mpc_av"
