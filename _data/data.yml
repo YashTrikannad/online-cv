@@ -99,25 +99,22 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Real Time Planning FrameWork for Autonomous Vehicels
+        link: "https://github.com/YashTrikannad/mpc_av"
+        tagline: "Developed a Real Time Hierarchical Three Level Planning System with Global Planner, Behavior Controller and the Local Planner for Autonomus Racing. 
+        The Global Planner that is used by the framework is FMT* Planner, Behavior Controller is responsible for local decision making and the Local Planner component
+        uses a model predictive controller for sending commands to the F110 Autonomous Car."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Motion Planning Library for 2d grid search
+        link: "https://github.com/YashTrikannad/mpl"
+        tagline: "I am developing this library for fast planning on 2D grid worlds and it currently has implementations for Jump Point Search, A-Star, Dijikstra and Depth First"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Service Robot Object Detection Pipeline
+        tagline: "I worked on the Service Robot Platform at University of Pennsylvania for developing the object classficiation and detection capabilities and deployed that on Nvidia Jetson Platform"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: RRT and RRT* Planner
+        link: "https://github.com/YashTrikannad/f110_rrt_star"
+        tagline: "Implemented the RRT and RRT* planning algorithms and tested them on the autonomous racing platform for local planning."
 
 # publications:
 #     title: Publications
