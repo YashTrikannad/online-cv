@@ -126,11 +126,10 @@ projects:
         tagline: "Implemented the RRT and RRT* planning algorithms and tested them on the autonomous racing platform for local planning."
 
       - title: SLAM using Extended Kalman Filter
-        link: "https://github.com/YashTrikannad/f110_rrt_star"
+        link: "https://github.com/YashTrikannad/EKF_SLAM"
         tagline: "Used Extended Kalman Filter to build run Simultaneous Localization and Mapping on Victoria Dataset"
 
       - title: Unscented Kalman for obtaining Orientation 
-        link: "https://github.com/YashTrikannad/f110_rrt_star"
         tagline: "Used Unscented Kalman Filter to filter noise from IMU sensors for extracting orientaiton information"
 
 # publications:
